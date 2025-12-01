@@ -1,0 +1,8 @@
+{
+  "name": "SESI Smart Study Hub",
+  "description": "A comprehensive study companion for SESI students featuring AI tutoring, homework vision analysis, and creative image generation tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
