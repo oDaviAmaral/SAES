@@ -10,7 +10,7 @@ const ChatInterface: React.FC = () => {
     {
       id: 'welcome',
       role: 'model',
-      content: 'Olá! Eu sou seu Tutor Inteligente do SESI. Como posso te ajudar hoje? Posso responder perguntas complexas ou buscar informações atualizadas na web.',
+      content: 'Olá! Eu sou seu assistente de estudos do SAES! Como posso te ajudar hoje? Posso responder perguntas complexas ou buscar informações atualizadas na web.',
       timestamp: new Date()
     }
   ]);

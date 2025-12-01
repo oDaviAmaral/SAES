@@ -22,7 +22,7 @@ const Sidebar: React.FC<SidebarProps> = ({ currentMode, onModeChange }) => {
             <GraduationCap className="w-6 h-6 text-white" />
         </div>
         <div>
-            <h1 className="Neo Sans font-bold text-gray-800 text-lg">SAES</h1>
+            <h1 className="font-bold text-gray-800 text-lg">SAES</h1>
             <p className="text-xs text-gray-500">Sistema de Apoio ao Estudante do SESI.</p>
         </div>
       </div>
