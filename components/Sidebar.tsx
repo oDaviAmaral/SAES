@@ -22,8 +22,8 @@ const Sidebar: React.FC<SidebarProps> = ({ currentMode, onModeChange }) => {
             <GraduationCap className="w-6 h-6 text-white" />
         </div>
         <div>
-            <h1 className="font-bold text-gray-800 text-lg">SESI Estudante</h1>
-            <p className="text-xs text-gray-500">Smart Study Hub</p>
+            <h1 className="font-bold text-gray-800 text-lg">SAES</h1>
+            <p className="text-xs text-gray-500">Estude da melhor forma.</p>
         </div>
       </div>
       
